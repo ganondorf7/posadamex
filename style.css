@@ -1,6 +1,5 @@
 body{
     background-color: #A4B787;
-    display: flex;
 }
 .hh1{
     margin-top: 5%;
@@ -18,7 +17,7 @@ p{
     font-size: 35px;
     top: 98%;
     position: absolute;
-}
+} port
 .myButton {
     position: absolute;
     margin-top:8%;
