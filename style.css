@@ -1,0 +1,54 @@
+body{
+    background-color: #A4B787;
+}
+p{
+    left: 26.4%;
+    text-align: center;
+    width: 40rem;
+    height: auto;
+    font-size: 35px;
+    top: 98%;
+    position: absolute;
+}
+.myButton {
+    margin-left: 45%;
+    box-shadow: -10px 9px 0px -1px #f8e4b3;
+    background-color: #f4f4f4;
+    border-radius: 34px;
+    border: 3px solid #f8e4b7;
+    display: inline-block;
+    cursor: pointer;
+    color: #aa3a3a;
+    font-family: Arial;
+    font-size: 17px;
+    padding: 16px 31px;
+    text-decoration: none;
+}
+
+.myButton:hover {
+    background-color: #a4b787;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.letania{
+    margin-left: 30%;
+    width: 40%;
+}
+.img1{
+    width: 40rem;
+    margin-left: 24%;
+    position:absolute
+}
+
+.img2{
+width: 100%;
+}
+
+.parent{
+    margin-bottom: 105%;
+    margin-top: 3%;
+}
