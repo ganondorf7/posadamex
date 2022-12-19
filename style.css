@@ -1,5 +1,6 @@
 body{
     background-color: #A4B787;
+    display: grid;
 }
 .hh1{
     margin-top: 5%;
