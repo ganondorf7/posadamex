@@ -1,5 +1,6 @@
 body{
     background-color: #A4B787;
+    display: flex;
 }
 p{
     left: 26.4%;
