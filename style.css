@@ -2,6 +2,14 @@ body{
     background-color: #A4B787;
     display: flex;
 }
+.hh1{
+    margin-top: 5%;
+    color: #AA3A3A;
+    position: absolute;
+    text-align: center;
+    left: 42%;
+    margin-bottom: 10%;
+}
 p{
     left: 26.4%;
     text-align: center;
@@ -12,6 +20,8 @@ p{
     position: absolute;
 }
 .myButton {
+    position: absolute;
+    margin-top:8%;
     margin-left: 45%;
     box-shadow: -10px 9px 0px -1px #f8e4b3;
     background-color: #f4f4f4;
@@ -25,7 +35,12 @@ p{
     padding: 16px 31px;
     text-decoration: none;
 }
-
+.letra{
+    font-size: 60px;
+    top:173%;
+    left: 44%;
+    position: absolute;
+}
 .myButton:hover {
     background-color: #a4b787;
 }
@@ -36,16 +51,23 @@ p{
 }
 
 .letania{
+    top:190%;
+    right: 30%;
     margin-left: 30%;
     width: 40%;
+    position: absolute;
 }
 .img1{
+    right: 25%;
+    top: 23%;
     width: 40rem;
     margin-left: 24%;
     position:absolute
 }
 
 .img2{
+    top: 290%;
+position: absolute;
 width: 100%;
 }
 
